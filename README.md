@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanagasabapathy R</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Jetpack Compose, Android**
 
 - 📝 I regularly write articles on [https://sabaramesh.wordpress.com/](https://sabaramesh.wordpress.com/)
 
